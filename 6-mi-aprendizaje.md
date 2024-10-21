@@ -2,7 +2,7 @@
 Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
 Si solucionó un problema presentado al realizar la práctica también se debe documentar.
 
-#Comparación de Conocimientos y Aprendizajes en la Práctica 2
+# Comparación de Conocimientos y Aprendizajes en la Práctica 2
 ### Antes de la practica
 Contaba con un entendimiento básico de Docker, limitado a la creación y ejecución de contenedores. Sin embargo, no tenía experiencia en la configuración avanzada de redes ni el uso de variables de entorno en aplicaciones más complejas.
 ### Aprendizajes Clave Después de la Práctica
